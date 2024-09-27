@@ -1,5 +1,5 @@
 body{
-	background-color: #00cc66; 
+	background-color: #f6e7f0; 
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -38,6 +38,7 @@ ul li{
   float: left;
   top: -20px;
   margin-left: -5%;
+  border-radius: 100%;
   -webkit-animation:spin 4s linear infinite;
   -moz-animation:spin 4s linear infinite;
   animation:spin 4s linear infinite;
@@ -110,7 +111,7 @@ ul li{
 }
 
 .container{
-  background-color: rgba(120, 244, 68, 0.3);
+  background-color: rgba(239, 97, 182, 0.932);
 	width: 85vw;
 	height: 95vh;
 	margin:-2% 0% 5% 0%;
@@ -122,7 +123,7 @@ ul li{
   margin: 7% 3%;
 }
 .container .box1{
-	float: left;
+
 	overflow: hidden;
 	width: 400px;
 	height: 300px;

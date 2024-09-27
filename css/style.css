@@ -41,9 +41,11 @@ ul li{
 .list li.logo img{
   position: relative;
   float: left;
+ 
   top: -20px;
   margin-left: 7%;
   margin-right: 35px;
+  border-radius: 100%;
   -webkit-animation:spin 4s linear infinite;
   -moz-animation:spin 4s linear infinite;
   animation:spin 4s linear infinite;
@@ -52,7 +54,7 @@ ul li{
 .list input[type=image]{
   position: relative;
   float: right;
-  top:-50px;
+  top:-60px;
   left: 35%;
   right: 20px;
   margin-left: 20%; 
@@ -97,9 +99,9 @@ ul li{
 .search input[type=text]{
   position: relative;
   float: left;
-  top:-20px;
+  top:-55px;
   width: 200px;
-  left: 10%;
+  left: 30%;
   padding: 6px;
   font-size: 15px;
   border-radius: 15px;

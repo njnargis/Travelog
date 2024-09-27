@@ -67,7 +67,7 @@ if(isset($_POST['search_p'])) {
     <div class="main">
         <ul>
           <ul class="list">
-            <li class="logo"><a href="mainPage.html"><img src="abctouri.png" alt="Logo" style="width:36px;height:36px"></a></li>
+            <li class="logo"><a href="mainPage.html"><img src="abctouri.png" alt="Logo" style="width:50px;height:50px"></a></li>
             <div class="search">
                 <form method="POST" action="info.php">
                   <input type="text" name="search_p" placeholder="Search.." size="50">
